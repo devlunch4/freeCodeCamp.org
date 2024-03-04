@@ -33,7 +33,7 @@
   - b = np.array([ 1, 2, 3 ])
   - a*b = np.array([ 1, 6, 15])
 
-#Applications of NumPy?
+# Applications of NumPy?
   - Mathematics (MATLAB Replacement)
   - Plotting (Matplotlib)
   - Backend (Pandas, Connect 4, Digital Photography)
